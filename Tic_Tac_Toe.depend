@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1496345393 source:c:\users\admin\desktop\tic_tac_toe\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<windows.h>
+	<MMSystem.h>
+	"person.h"
+
+1496345392 c:\users\admin\desktop\tic_tac_toe\person.h
+
+1496345392 source:c:\users\admin\desktop\tic_tac_toe\person.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"person.h"
+
